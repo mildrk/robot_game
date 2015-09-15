@@ -1,7 +1,6 @@
 # Robot game
 
-To compile, run `make game`
-To run, `./game`
+To compile, run `make game`. To run, `./game`
 
 Rotate the robot's arm with 'f' and 'r' keys
 
